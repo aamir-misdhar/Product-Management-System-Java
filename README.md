@@ -1,0 +1,2 @@
+# Product-Management-System-Java
+ A Java-based Product Management System designed to streamline the management of product categories, stock levels, and product entries. This application is developed using NetBeans IDE and MySQL for the database. The project includes comprehensive functionality for adding, updating, and managing products and their categories, with an easy-to-navigate user interface.
