@@ -123,14 +123,14 @@ This README now includes details about the screenshot located in the 'Screenshot
 
 - **Product Entry**
   
-  ![Product Entry](Screenshot/product_entry.jpeg)
+  ![Product Entry](Screenshots/product_entry.jpeg)
   
 - **Product Categories**
   
-  ![Product Categories](Screenshot/product_categories.jpeg)
+  ![Product Categories](Screenshots/product_categories.jpeg)
   
 - **Product Stock**
   
-  ![Product Stock](Screenshot/product_stock.jpeg)
+  ![Product Stock](Screenshots/product_stock.jpeg)
 
 
